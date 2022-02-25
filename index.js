@@ -1,5 +1,5 @@
-function illionise(options) {
+function illion(options) {
     return options.string;
 }
 
-module.exports = illionise
+module.exports = illion

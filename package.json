@@ -1,0 +1,22 @@
+{
+  "name": "illion",
+  "version": "1.0.0",
+  "description": "Illionise your numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karljoones/illion.git"
+  },
+  "keywords": [
+    "illion"
+  ],
+  "author": "Karl Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Karljoones/illion/issues"
+  },
+  "homepage": "https://github.com/Karljoones/illion#readme"
+}
